@@ -1,6 +1,6 @@
 # Hi, I'm Haruto 👋
 
-I build things for the web. Based in Japan 🇯🇵
+I love building things for the web. Based in Japan 🇯🇵
 
 ## About Me
 
