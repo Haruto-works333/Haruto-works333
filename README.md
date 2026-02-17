@@ -31,6 +31,7 @@ Open source contributor to [Deno](https://github.com/denoland/deno).
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Deno](https://img.shields.io/badge/Deno-000000?style=flat-square&logo=deno&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
 **Databases**
 
@@ -46,7 +47,7 @@ Open source contributor to [Deno](https://github.com/denoland/deno).
 
 ## 🌱 Currently Learning
 
-- PHP & the WordPress ecosystem (Gutenberg block development)
+- WordPress ecosystem and Gutenberg block editor
 - Deepening my knowledge of Java and JavaScript ecosystems
 - Open source contribution workflows
 
