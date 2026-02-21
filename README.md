@@ -8,6 +8,18 @@ Software engineer focused on full-stack web development.
 I enjoy exploring different codebases and technologies — every project is a chance to learn something new.
 Open source contributor to [Deno](https://github.com/denoland/deno).
 
+## 🏆 Hackathon
+
+**[FitCast](https://devpost.com/software/fitcast-fna8px)** — Winner, [DeveloperWeek 2026 Hackathon](https://developerweek-2026-hackathon.devpost.com/) × Perfect Corp Prize (out of 56 projects)
+
+> Dress for the weather. See it on you.
+
+A mobile app that fetches real-time weather, recommends an outfit, and uses AI virtual try-on to show you wearing it. Built solo with React Native, Node.js, and Perfect Corp Clothes Try-On API.
+
+[![FitCast](https://img.shields.io/badge/🏆_FitCast-DeveloperWeek_2026_Winner-gold?style=flat-square)](https://devpost.com/software/fitcast-fna8px)
+[![Demo](https://img.shields.io/badge/▶_Demo-YouTube-red?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Live](https://img.shields.io/badge/🚀_Live-Replit-blue?style=flat-square)](https://fit-cast-outfitter.replit.app)
+
 ## Tech Stack
 
 **Languages**
