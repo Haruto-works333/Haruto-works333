@@ -12,7 +12,7 @@ Open source contributor to [Deno](https://github.com/denoland/deno).
 
 [![FitCast - DeveloperWeek 2026 Winner](https://img.shields.io/badge/FitCast-DeveloperWeek_2026_Winner-F5A623?style=for-the-badge)](https://devpost.com/software/fitcast-fna8px)
 
-A mobile app that fetches real-time weather, recommends an outfit, and uses AI virtual try-on to show you wearing it. Built solo with React Native, Node.js, and Perfect Corp Clothes Try-On API. Winner of the Perfect Corp Prize out of 56 projects.
+A mobile app that fetches real-time weather, recommends an outfit, and uses AI virtual try-on to show you wearing it. Built solo with React Native, Node.js, and Perfect Corp Clothes Try-On API. Winner of the Perfect Corp Prize.
 
 [Devpost](https://devpost.com/software/fitcast-fna8px) · [Demo Video](https://www.youtube.com/watch?v=YOUR_VIDEO_ID) · [Live App](https://fit-cast-outfitter.replit.app)
 
