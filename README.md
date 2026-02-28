@@ -1,4 +1,4 @@
-# Hi, I'm Haruto 👋
+# Hi, I'm Haruto 
 
 I love building things for the web. Based in Japan 🇯🇵
 
@@ -8,7 +8,7 @@ Software engineer focused on full-stack web development.
 I enjoy exploring different codebases and technologies — every project is a chance to learn something new.
 Open source contributor to [Deno](https://github.com/denoland/deno).
 
-## 🏆 Hackathon
+##  Hackathon
 
 [![FitCast - DeveloperWeek 2026 Winner](https://img.shields.io/badge/FitCast-DeveloperWeek_2026_Winner-F5A623?style=for-the-badge)](https://devpost.com/software/fitcast-fna8px)
 
@@ -58,20 +58,19 @@ A mobile app that fetches real-time weather, recommends an outfit, and uses AI v
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
-## 🌱 Currently Learning
+##  Currently Learning
 
 - WordPress ecosystem and Gutenberg block editor
 - Deepening my knowledge of Java and JavaScript ecosystems
 - Open source contribution workflows
 
-## 💡 Interests
+##  Interests
 
 - Open source software & developer tooling
 - Web performance & security
 - Async communication & distributed teamwork
 
-## 🧩 Competitive Programming
+##  Competitive Programming
 
 Just started competitive programming in February 2026.
-Practicing on [AtCoder](https://atcoder.jp/users/harunasu) (Algorithm & Heuristic contests) — currently Gray-rated.
-Solved up to D problems in my first contest. Steadily working my way up.
+Practicing on [AtCoder](https://atcoder.jp/users/harunasu) (Algorithm & Heuristic contests) — currently Brown-rated.
